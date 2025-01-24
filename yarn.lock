@@ -2667,10 +2667,6 @@ number-to-bn@1.7.0:
     bn.js "4.11.6"
     strip-hex-prefix "1.0.0"
 
-"nwmatcher@>= 1.3.9 < 2.0.0":
-  version "1.4.4"
-  resolved "https://registry.yarnpkg.com/nwmatcher/-/nwmatcher-1.4.4.tgz#2285631f34a95f0d0395cd900c96ed39b58f346e"
-
 oauth-sign@~0.8.1:
   version "0.8.2"
   resolved "https://registry.yarnpkg.com/oauth-sign/-/oauth-sign-0.8.2.tgz#46a6ab7f0aead8deae9ec0565780b7d4efeb9d43"
@@ -2737,7 +2733,6 @@ os-locale@^2.0.0:
   dependencies:
     execa "^0.7.0"
     lcid "^1.0.0"
-    mem "^1.1.0"
 
 os-tmpdir@^1.0.1:
   version "1.0.2"
@@ -3207,7 +3202,6 @@ request@^2.79.0:
     forever-agent "~0.6.1"
     form-data "~2.1.1"
     har-validator "~4.2.1"
-    hawk "~3.1.3"
     http-signature "~1.1.0"
     is-typedarray "~1.0.0"
     isstream "~0.1.2"
@@ -3215,10 +3209,8 @@ request@^2.79.0:
     mime-types "~2.1.7"
     oauth-sign "~0.8.1"
     performance-now "^0.2.0"
-    qs "~6.4.0"
     safe-buffer "^5.0.1"
     stringstream "~0.0.4"
-    tough-cookie "~2.3.0"
     tunnel-agent "^0.6.0"
     uuid "^3.0.0"
 
