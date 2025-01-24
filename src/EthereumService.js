@@ -1,6 +1,3 @@
-
-
-
 export default (Web3) => {
 
   const state = {
