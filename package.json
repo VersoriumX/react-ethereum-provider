@@ -12,14 +12,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/joincivil/react-ethereum-provider.git"
+    "url": "git+https://github.com/VersoriumX/react-ethereum-provider.git"
   },
-  "author": "Dan Kinsley",
-  "license": "MIT",
+  "author": "Travis Jerome Goff",
+  "license": "CC",
   "bugs": {
-    "url": "https://github.com/joincivil/react-ethereum-provider/issues"
+    "url": "https://github.com/VersoriumX/react-ethereum-provider/issues"
   },
-  "homepage": "https://github.com/joincivil/react-ethereum-provider#readme",
+  "homepage": "https://github.com/VersoriumX/react-ethereum-provider#readme",
   "devDependencies": {
     "babel-cli": "^6.26.0",
     "babel-jest": "^21.2.0",
